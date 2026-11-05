@@ -1,0 +1,172 @@
+﻿============================================================
+ QUANGLAN - BUILD Bieu Cat_Tao Marker Opitex V3
+ Python 3.15
+============================================================
+
+[0/7] Kiem tra source...
+SOURCE OK
+[1/7] Kiem tra Python 3.15...
+Python 3.15.1
+[2/7] Kiem tra thu vien build...
+DEPENDENCIES OK
+[3/7] Kiem tra cu phap...
+[4/7] Xoa build cu...
+[5/7] Build EXE...
+[6/7] Tao SHA256...
+[7/7] Hoan tat.
+176 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.9
+177 INFO: Python: 3.15.1
+198 INFO: Platform: Windows-10-10.0.19044-SP0
+199 INFO: Python environment: C:\Users\lan\AppData\Local\Programs\Python\Python315
+201 INFO: wrote E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\Bieu_Cat_Tao_Marker_Opitex.spec
+204 INFO: Removing temporary files and cleaning cache in C:\Users\lan\AppData\Local\pyinstaller
+1386 INFO: Module search paths (PYTHONPATH):
+['E:\\update pm\\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET',
+ 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\python315.zip',
+ 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs',
+ 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib',
+ 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315',
+ 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages',
+ 'E:\\update pm\\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET']
+1600 INFO: Appending 'datas' from .spec
+1610 INFO: checking Analysis
+1610 INFO: Building Analysis because Analysis-00.toc is non existent
+1610 INFO: Looking for Python shared library...
+1610 INFO: Using Python shared library: C:\Users\lan\AppData\Local\Programs\Python\Python315\python315.dll
+1610 INFO: Running Analysis Analysis-00.toc
+1611 INFO: Target bytecode optimization level: 0
+1611 INFO: Initializing module dependency graph...
+1611 INFO: Initializing module graph hook caches...
+1647 INFO: Analyzing modules for base_library.zip ...
+2391 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+2474 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+4366 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+4378 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+4566 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+5322 INFO: Caching module dependency graph...
+5350 INFO: Analyzing E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\Bieu_Cat_Tao_Marker_Opitex.py
+5414 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+5415 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+5674 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+5734 INFO: Processing standard module hook 'hook-openpyxl.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+5811 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+6072 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+6073 INFO: SetuptoolsInfo: initializing cached setuptools info...
+6734 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+6768 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+6773 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+7031 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+7056 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+7918 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+9624 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+9910 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+10008 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+10368 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+11953 INFO: Analyzing hidden import 'tkinter.__main__'
+11954 INFO: Analyzing hidden import 'tkinter.colorchooser'
+11956 INFO: Analyzing hidden import 'tkinter.dnd'
+11963 INFO: Analyzing hidden import 'tkinter.font'
+11970 INFO: Analyzing hidden import 'tkinter.scrolledtext'
+11973 INFO: Analyzing hidden import 'openpyxl.compat.abc'
+11973 INFO: Analyzing hidden import 'openpyxl.compat.product'
+11974 INFO: Analyzing hidden import 'openpyxl.compat.singleton'
+11976 INFO: Analyzing hidden import 'openpyxl.descriptors.slots'
+11977 INFO: Analyzing hidden import 'openpyxl.packaging.interface'
+11979 INFO: Analyzing hidden import 'openpyxl.utils.dataframe'
+11982 INFO: Analyzing hidden import 'openpyxl.utils.inference'
+11984 INFO: Analyzing hidden import 'openpyxl.worksheet.cell_watch'
+11985 INFO: Analyzing hidden import 'openpyxl.worksheet.controls'
+11991 INFO: Analyzing hidden import 'openpyxl.worksheet.custom'
+11992 INFO: Analyzing hidden import 'openpyxl.worksheet.errors'
+11995 INFO: Analyzing hidden import 'openpyxl.worksheet.picture'
+11995 INFO: Analyzing hidden import 'openpyxl.worksheet.smart_tag'
+11998 INFO: Analyzing hidden import 'PIL.AvifImagePlugin'
+12007 INFO: Analyzing hidden import 'PIL.BdfFontFile'
+12035 INFO: Analyzing hidden import 'PIL.BlpImagePlugin'
+12052 INFO: Analyzing hidden import 'PIL.BufrStubImagePlugin'
+12055 INFO: Analyzing hidden import 'PIL.ContainerIO'
+12059 INFO: Analyzing hidden import 'PIL.CurImagePlugin'
+12062 INFO: Analyzing hidden import 'PIL.DcxImagePlugin'
+12071 INFO: Analyzing hidden import 'PIL.DdsImagePlugin'
+12086 INFO: Analyzing hidden import 'PIL.EpsImagePlugin'
+12098 INFO: Analyzing hidden import 'PIL.FitsImagePlugin'
+12104 INFO: Analyzing hidden import 'PIL.FliImagePlugin'
+12109 INFO: Analyzing hidden import 'PIL.FpxImagePlugin'
+12116 INFO: Analyzing hidden import 'PIL.FtexImagePlugin'
+12119 INFO: Analyzing hidden import 'PIL.GbrImagePlugin'
+12121 INFO: Analyzing hidden import 'PIL.GdImageFile'
+12124 INFO: Analyzing hidden import 'PIL.GribStubImagePlugin'
+12126 INFO: Analyzing hidden import 'PIL.Hdf5StubImagePlugin'
+12128 INFO: Analyzing hidden import 'PIL.IcnsImagePlugin'
+12162 INFO: Analyzing hidden import 'PIL.IcoImagePlugin'
+12172 INFO: Analyzing hidden import 'PIL.ImImagePlugin'
+12183 INFO: Analyzing hidden import 'PIL.ImageDraw'
+12229 INFO: Analyzing hidden import 'PIL.ImageEnhance'
+12237 INFO: Analyzing hidden import 'PIL.ImageGrab'
+12243 INFO: Analyzing hidden import 'PIL.ImageMath'
+12255 INFO: Analyzing hidden import 'PIL.ImageMorph'
+12263 INFO: Analyzing hidden import 'PIL.ImageTransform'
+12265 INFO: Analyzing hidden import 'PIL.ImtImagePlugin'
+12268 INFO: Analyzing hidden import 'PIL.IptcImagePlugin'
+12274 INFO: Analyzing hidden import 'PIL.McIdasImagePlugin'
+12276 INFO: Analyzing hidden import 'PIL.MicImagePlugin'
+12279 INFO: Analyzing hidden import 'PIL.MpegImagePlugin'
+12282 INFO: Analyzing hidden import 'PIL.MspImagePlugin'
+12286 INFO: Analyzing hidden import 'PIL.PSDraw'
+12290 INFO: Analyzing hidden import 'PIL.PalmImagePlugin'
+12297 INFO: Analyzing hidden import 'PIL.PcdImagePlugin'
+12299 INFO: Analyzing hidden import 'PIL.PcfFontFile'
+12306 INFO: Analyzing hidden import 'PIL.PdfImagePlugin'
+12351 INFO: Analyzing hidden import 'PIL.PixarImagePlugin'
+12353 INFO: Analyzing hidden import 'PIL.PsdImagePlugin'
+12362 INFO: Analyzing hidden import 'PIL.QoiImagePlugin'
+12371 INFO: Analyzing hidden import 'PIL.SgiImagePlugin'
+12376 INFO: Analyzing hidden import 'PIL.SpiderImagePlugin'
+12385 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+12386 INFO: Analyzing hidden import 'PIL.SunImagePlugin'
+12389 INFO: Analyzing hidden import 'PIL.TarIO'
+12391 INFO: Analyzing hidden import 'PIL.TgaImagePlugin'
+12397 INFO: Analyzing hidden import 'PIL.WalImageFile'
+12400 INFO: Analyzing hidden import 'PIL.WebPImagePlugin'
+12410 INFO: Analyzing hidden import 'PIL.WmfImagePlugin'
+12416 INFO: Analyzing hidden import 'PIL.XVThumbImagePlugin'
+12418 INFO: Analyzing hidden import 'PIL.XbmImagePlugin'
+12422 INFO: Analyzing hidden import 'PIL.XpmImagePlugin'
+12427 INFO: Analyzing hidden import 'PIL.__main__'
+12427 INFO: Analyzing hidden import 'PIL._tkinter_finder'
+12428 INFO: Analyzing hidden import 'PIL.report'
+12429 INFO: Processing module hooks (post-graph stage)...
+12477 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks'
+12483 INFO: Performing binary vs. data reclassification (314 entries)
+12505 INFO: Looking for ctypes DLLs
+12711 INFO: Analyzing run-time hooks ...
+12713 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+12717 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+12722 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+12724 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+12734 INFO: Creating base_library.zip...
+12747 INFO: Looking for dynamic libraries
+13179 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\lan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\numpy.libs']
+13179 INFO: Extra DLL search directories (PATH): []
+13623 INFO: Warnings written to E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\build\Bieu_Cat_Tao_Marker_Opitex\warn-Bieu_Cat_Tao_Marker_Opitex.txt
+13659 INFO: Graph cross-reference written to E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\build\Bieu_Cat_Tao_Marker_Opitex\xref-Bieu_Cat_Tao_Marker_Opitex.html
+13687 INFO: checking PYZ
+13687 INFO: Building PYZ because PYZ-00.toc is non existent
+13687 INFO: Building PYZ (ZlibArchive) E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\build\Bieu_Cat_Tao_Marker_Opitex\PYZ-00.pyz
+14035 INFO: Building PYZ (ZlibArchive) E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\build\Bieu_Cat_Tao_Marker_Opitex\PYZ-00.pyz completed successfully.
+14050 INFO: checking PKG
+14050 INFO: Building PKG because PKG-00.toc is non existent
+14050 INFO: Building PKG (CArchive) Bieu_Cat_Tao_Marker_Opitex.pkg
+16846 INFO: Building PKG (CArchive) Bieu_Cat_Tao_Marker_Opitex.pkg completed successfully.
+16851 INFO: Bootloader C:\Users\lan\AppData\Local\Programs\Python\Python315\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+16851 INFO: checking EXE
+16851 INFO: Building EXE because EXE-00.toc is non existent
+16851 INFO: Building EXE from EXE-00.toc
+16852 INFO: Copying bootloader EXE to E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\dist\Bieu_Cat_Tao_Marker_Opitex.exe
+16855 INFO: Copying icon to EXE
+16858 INFO: Copying 0 resources to EXE
+16858 INFO: Embedding manifest in EXE
+16859 INFO: Appending PKG archive to EXE
+16875 INFO: Fixing EXE headers
+16994 INFO: Building EXE from EXE-00.toc completed successfully.
+16999 INFO: Build complete! The results are available in: E:\update pm\Bieu_Cat_Tao_Marker_Opitex_V3_TIENgVIET\dist
